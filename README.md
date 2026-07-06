@@ -94,4 +94,4 @@ functions().useEmulator('10.0.2.2', 5001);
 
 ## Related repo
 
-The backend (Firebase Functions + Genkit RAG pipeline) this app depends on lives at: `[link to your backend repo]`
+The backend (Firebase Functions + Genkit RAG pipeline) this app depends on lives at: https://github.com/amanLRays/rag-hr-chatbot-backend
